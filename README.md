@@ -1,5 +1,8 @@
 # Sistema de Catálogo de Livros (COBOL)
 
+![Logo](https://github.com/Cati94/Livros_Inventory_COBOL/blob/main/book.png)
+
+
 Aplicação de gestão de livros com armazenamento persistente em ficheiro
 sequencial.
 
